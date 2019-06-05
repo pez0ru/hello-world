@@ -6,3 +6,10 @@ my first repo
 $$testeo$$
 
 - then merge into master and clone to desktop
+
+**testeo de negrita**
+
+*testeo de cursiva*
+
+> funciona?
+
